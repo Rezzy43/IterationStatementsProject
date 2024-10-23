@@ -19,7 +19,7 @@ namespace IterationStatements
             int num;
 
             //TODO - Initialize the variable with a value of 0
-            int num = 0;
+            num = 0;
 
 
             //TODO - Create a do-while loop using the existing brackets as a template.
@@ -84,7 +84,7 @@ namespace IterationStatements
             // This loop will print the numbers in reverse order - from 200 to 1.
 
             // a) In your initializer, set the value of "i" to 199
-            // b) In your conditional, ensure that the loop continues as long as "i" is:
+            // b In your conditional, ensure that the loop continues as long as "i" is:
             //    - Less than or equal to the number of items in "numbers" (use "numbers.Count")
             //    - Greater than or equal to 0
             // c) Decrement "i" by 1 in each iteration
